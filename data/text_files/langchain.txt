@@ -1,0 +1,6 @@
+Langchain Introduction
+LangChain is a powerful framework designed to help developers build applications with large language models (LLMs). It enables seamless integration of LLMs with data sources such as documents, APIs, and databases.
+
+With LangChain, you can implement Retrieval-Augmented Generation (RAG), which combines document retrieval with LLMs to produce accurate and context-aware answers.
+
+This framework supports various document loaders, text splitting, vector stores, and chaining methods to create sophisticated NLP applications.

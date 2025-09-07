@@ -1,0 +1,6 @@
+Machine Learning (ML) is a field of artificial intelligence that allows computers to learn patterns from data and make decisions without being explicitly programmed.
+
+It includes supervised learning, unsupervised learning, and reinforcement learning. 
+
+Popular ML libraries include scikit-learn, TensorFlow, and PyTorch.
+
