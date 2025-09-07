@@ -1,0 +1,2 @@
+2025-09-07 18:32:33,873 - INFO - Hello from rag-pipeline! (info log)
+2025-09-07 18:32:33,873 - ERROR - This is a test error log from main.py
