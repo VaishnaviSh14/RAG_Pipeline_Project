@@ -151,11 +151,11 @@ Retrieved 2 documents (after filtering)
 
 ## ✨ Advanced Features
 
-✅ Streaming – Get answers as if the AI is typing in real-time
-✅ Citations – See sources, pages, and relevance scores
-✅ Conversation History – Keep context across multiple questions
-✅ Summarization – Get quick TL;DRs of long answers
-✅ Configurable – Adjust top_k results, similarity thresholds, temperature
+* ✅ Streaming – Get answers as if the AI is typing in real-time
+* ✅ Citations – See sources, pages, and relevance scores
+* ✅ Conversation History – Keep context across multiple questions
+* ✅ Summarization – Get quick TL;DRs of long answers
+* ✅ Configurable – Adjust top_k results, similarity thresholds, temperature
 
 ---
 
