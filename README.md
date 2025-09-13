@@ -149,25 +149,20 @@ Retrieved 2 documents (after filtering)
 
 ---
 
-## 🔮 Future Improvements
+## ✨ Advanced Features
 
-* Integration with **LLMs (OpenAI, Llama2, Gemini, etc.)** for end-to-end RAG answers.
-* Support for more file types (CSV, DOCX, JSON).
-* REST API / Web UI for easy querying.
-* Advanced ranking with rerankers.
+✅ Streaming – Get answers as if the AI is typing in real-time
+✅ Citations – See sources, pages, and relevance scores
+✅ Conversation History – Keep context across multiple questions
+✅ Summarization – Get quick TL;DRs of long answers
+✅ Configurable – Adjust top_k results, similarity thresholds, temperature
 
 ---
 
 ## 👩‍💻 Author
 
 **Vaishnavi Sharma**
-📧 [LinkedIn](https://linkedin.com/in/vaishnavi-sharma)
-🌐 GitHub: [VaishnaviSh14](https://github.com/VaishnaviSh14)
 
----
 
-✨ This project provides a **strong foundation** for building real-world RAG-powered applications like **chatbots, document Q\&A, and knowledge retrieval systems**.
 
----
 
-Would you like me to also style this with **badges (Python version, LangChain, ChromaDB, HuggingFace, etc.)** at the top so it looks even more professional on GitHub?
